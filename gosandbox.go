@@ -6,10 +6,9 @@ import (
 
 func main() {
 
-	fmt.Println("Hello World!")
-
 	var a int
 
+	a += 1
 	a += 1
 	a += 1
 
